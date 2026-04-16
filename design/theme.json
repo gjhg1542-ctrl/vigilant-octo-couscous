@@ -1,0 +1,21 @@
+{
+  "theme": {
+    "colors": {
+      "primary": "#4A90E2",
+      "secondary": "#50E3C2",
+      "background": "#FFFFFF",
+      "text": "#333333"
+    },
+    "radius": {
+      "sm": "4px",
+      "md": "8px",
+      "lg": "12px"
+    },
+    "spacing": {
+      "xs": "4px",
+      "sm": "8px",
+      "md": "16px",
+      "lg": "24px"
+    }
+  }
+}
