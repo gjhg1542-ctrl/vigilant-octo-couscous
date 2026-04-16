@@ -1,0 +1,8 @@
+{
+  "card": {
+    "padding": "20px",
+    "radius": "12px",
+    "background": "#FFFFFF",
+    "shadow": "0 4px 12px rgba(0,0,0,0.1)"
+  }
+}
