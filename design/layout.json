@@ -1,0 +1,10 @@
+{
+  "container": {
+    "maxWidth": "1200px",
+    "padding": "16px"
+  },
+  "grid": {
+    "columns": 12,
+    "gap": "16px"
+  }
+}
