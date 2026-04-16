@@ -1,0 +1,9 @@
+{
+  "modal": {
+    "padding": "24px",
+    "radius": "12px",
+    "background": "#FFFFFF",
+    "shadow": "0 10px 30px rgba(0,0,0,0.2)",
+    "backdrop": "rgba(0,0,0,0.5)"
+  }
+}
