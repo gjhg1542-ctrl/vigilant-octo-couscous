@@ -1,0 +1,8 @@
+{
+  "navbar": {
+    "height": "64px",
+    "background": "#FFFFFF",
+    "borderBottom": "1px solid #E5E5E5",
+    "padding": "0 24px"
+  }
+}
