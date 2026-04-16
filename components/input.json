@@ -1,0 +1,12 @@
+{
+  "input": {
+    "padding": "12px",
+    "radius": "8px",
+    "fontSize": "16px",
+    "border": "1px solid #CCCCCC",
+    "focus": {
+      "border": "1px solid #4A90E2",
+      "shadow": "0 0 0 3px rgba(74,144,226,0.3)"
+    }
+  }
+}
