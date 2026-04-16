@@ -1,0 +1,17 @@
+{
+  "button": {
+    "padding": "12px 20px",
+    "radius": "8px",
+    "fontSize": "16px",
+    "variants": {
+      "primary": {
+        "background": "#4A90E2",
+        "color": "#FFFFFF"
+      },
+      "secondary": {
+        "background": "#50E3C2",
+        "color": "#333333"
+      }
+    }
+  }
+}
