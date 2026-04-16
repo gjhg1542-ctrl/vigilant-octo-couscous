@@ -1,0 +1,7 @@
+{
+  "border": {
+    "thin": "1px solid #E5E5E5",
+    "medium": "2px solid #CCCCCC",
+    "thick": "3px solid #999999"
+  }
+}
