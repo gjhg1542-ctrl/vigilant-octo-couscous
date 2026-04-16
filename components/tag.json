@@ -1,0 +1,17 @@
+{
+  "tag": {
+    "padding": "6px 10px",
+    "radius": "6px",
+    "fontSize": "14px",
+    "variants": {
+      "default": {
+        "background": "#EFEFEF",
+        "color": "#333333"
+      },
+      "warning": {
+        "background": "#FFF4CC",
+        "color": "#B8860B"
+      }
+    }
+  }
+}
