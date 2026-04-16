@@ -1,0 +1,8 @@
+{
+  "table": {
+    "headerBackground": "#F5F5F5",
+    "rowHover": "#FAFAFA",
+    "border": "1px solid #E5E5E5",
+    "padding": "12px"
+  }
+}
